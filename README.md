@@ -17,4 +17,9 @@ the `408n` board might be replaced by the `TuchAudio 409n`, which adds **Tone co
 ## Inputs
 - **Phono with RIAA equalisation:** both DIN and RCA connectors, 3.6 mV/110 kOhm (optional: _Moving Coil_ input via the `191` board)
 - **Line input:** both DIN and RCA connectors, 180 mV/900 kOhm (suitable for _ceramic_ cartridges)
-- **Tape Loop:** both DIN and RCA connectors
+- **Tape Playback:** thru RCA (180 mV/47 k) and DIN (0.48 V/16.5 k) connectors.
+
+## Outputs
+- Line out: 180 mV (intended for a suitable poweramp, like **TuchAudio 209** thru a `408/409` _volume_ board).
+- Tape Rec (RCA): 180 mV
+- Tape Rec (DIN): 5.3 mV over 10 kohm
